@@ -11,9 +11,9 @@
 }
 
 .main td{
-    border: 2px solid black;
+    border: 1px solid black;
     width: 50%;
-    height: 150px;
+    height: 50vh;
     padding: 10px;
     vertical-align: middle;
 }
@@ -23,7 +23,7 @@
 .nested3,
 .nested4{
     width: 100%;
-    border: 2px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
 }
 
@@ -35,7 +35,7 @@
 .nested3 td,
 .nested4 th,
 .nested4 td{
-    border: 4px doubleblack;
+    border: 1px solidblack;
     text-align: center;
     padding: 8px;
 }
@@ -73,5 +73,5 @@ height:35%
 height:40%
 }
 .nested1,.nested2,.nested3,.nested4{
- border:4px double black;
+ border:px double black;
 }
